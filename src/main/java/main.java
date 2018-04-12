@@ -6,5 +6,6 @@ public class main {
             System.out.println("hello, baby!!!");
             System.out.println("vao vao");
             System.out.println("pull ceshi ");
+            System.out.println("克隆记载");
     }
 }
